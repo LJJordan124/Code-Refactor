@@ -3,7 +3,7 @@
 ## Description
 This project was provided as a challenge to portray a real-life event where someone would receive an on-the-job ticket and request certain features (in this example, it was making the website accessible) without changing the functionality of the code and adhering to the **Scout Rule**; always leaving the code a little cleaner than when you found it. Ways that made the website accessible: ensuring people with disabilities can access a website with video captions, screen readers, and braille keyboards. We understood in this project the importance of avoiding litigation and we were provided a small list to help us fulfill the criteria for this project.
 
-## [Deployed Application URL]
+## Deployed Application URL
 The following link shows the website application: [Code Refactor](https://ljjordan124.github.io/Code-Refactor/)
 
 ## Screenshot
