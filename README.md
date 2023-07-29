@@ -17,6 +17,9 @@ This website optimizes in search engines, and the features it provides are acces
 ## Languages & Dependencies
 English
 
+## Built With
+HTML
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
