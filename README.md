@@ -19,6 +19,7 @@ English
 
 ## Built With
 HTML
+CSS
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
