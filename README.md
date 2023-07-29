@@ -18,8 +18,8 @@ This website optimizes in search engines, and the features it provides are acces
 English
 
 ## Built With
-HTML
-CSS
+* HTML
+* CSS
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
